@@ -5,4 +5,4 @@
 🌍 I aim to use genetic tools to support conservation efforts.
 
 ## More info about me
-Visit my [website](https://laurabertola1.wixsite.com/mysite)
+Visit my [website](https://laurabertola1.wixsite.com/mysite).
